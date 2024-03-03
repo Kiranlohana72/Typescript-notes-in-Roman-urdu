@@ -16,7 +16,7 @@ Typescript Kaise Likha Jaye:
    Typescript mein code likhne ke liye JavaScript ke tareeqe ke sath sath, aapko Typescript ke features ka bhi istemal karna hoga jaise ke types, interfaces, enums, etc.
    ```typescript
    // Example: Typescript mein variable declaration
-   let naam: string = "Ahmed";
+   let naam: string = "kiran";
    ```
 
 4. Compile Karna:
@@ -49,7 +49,7 @@ Typescript Ke Taqatwar Pehlu:
 
 1. Fundamentals (Bunyadi Tawunat):
    Typescript ke bunyadi concepts mein variables, data types, loops, conditions, functions, aur classes shamil hain.
-   - Variables (Variables): Typescript mein variables declare karte waqt unke data types specify kiye jate hain, jaise ke `let naam: string = "Ahmed";`.
+   - Variables (Variables): Typescript mein variables declare karte waqt unke data types specify kiye jate hain, jaise ke `let naam: string = "kiran";`.
    - Data Types (Data Qisamain): Typescript mein data types include hain string, number, boolean, array, tuple, enum, any, void, etc.
    - Loops (Loops): Typescript mein for, while, aur do-while loops hote hain.
    - Conditions (Shartain): If-else statements aur switch statements typescript mein istemal ho sakte hain.
